@@ -83,7 +83,7 @@ function draw(){
     
  
 
-    personWalking.debug = true;    
+    //personWalking.debug = true;    
    
     Engine.update(engine);
     
